@@ -18,7 +18,7 @@ public class TC_Login extends BaseClass {
 		
 		SignInPage login=new SignInPage(driver);
 		login.enterEmail("saisneha@gmail.com");
-		login.enterPassword("Saisneha@9875"); //  6
+		login.enterPassword("Saisneha@9876"); //  6
 		
 		login.clickLogin();
 		

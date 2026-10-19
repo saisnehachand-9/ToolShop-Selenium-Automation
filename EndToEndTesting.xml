@@ -9,6 +9,7 @@
 	  <parameter name="browser" value="chrome"></parameter>
 	  <parameter name="os" value="windows"></parameter> 
     <classes>
+    <!--<class name="testCases.TC_1_AccountRegistration"/> --> 
      <class name="testCases.TC_CheckOut2ndStep"/> 
     <!--  <class name="testCases.TC_Login"/> -->
     <!--  <class name="testCases.TC_LoginDataDrivenTest"/>-->
